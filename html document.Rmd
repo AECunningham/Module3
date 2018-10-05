@@ -10,6 +10,7 @@ output:
     toc: yes
     toc_float: true
     code_folding: hide
+    theme: simplex
 ---
 
 ```{r setup, include=FALSE}
